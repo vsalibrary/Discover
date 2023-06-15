@@ -1,0 +1,7 @@
+<form action="https://search.follettsoftware.com/metasearch/ui/118085/search/all?q=" method="get">
+<input type="hidden" name="requestId" value="new">
+<input type="hidden" name="currentSearchTypeId" value="ALL">
+<input type="hidden" name="resultsSortBy" value="RELEVANCE">
+<input type="text" name="q" id="q" placeholder="Title, Author, or Genre ... ">
+<input type="submit" value="Search">	
+</form>
